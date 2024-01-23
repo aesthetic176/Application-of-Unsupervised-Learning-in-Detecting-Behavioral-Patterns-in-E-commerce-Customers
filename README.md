@@ -1,4 +1,3 @@
-# Application-of-Unsupervised-Learning-in-Detecting-Behavioral-Patterns-in-E-commerce-Customers
 # Unsupervised Learning in E-commerce Customer Behavior Analysis
 
 Welcome to our GitHub repository for the "Unsupervised Learning in E-commerce Customer Behavior Analysis" project. This repository contains our exploration and application of unsupervised machine learning techniques in understanding and segmenting customer behaviors in the e-commerce sector.
